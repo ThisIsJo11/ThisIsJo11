@@ -1,5 +1,5 @@
 
-# [![linkedin (1)](https://github.com/ThisIsJo11/ThisIsJo11/assets/110723822/0a067f9e-ea07-484b-9930-d649c92a7f1e)](https://www.linkedin.com/in/johannes-esterhuizen-4b8252150) Johannes Esterhuizen
+
   
 ## I’m currently learning 👨🏼‍🎓:
 - TypeScript on Udemy
