@@ -2,10 +2,7 @@
 
   
 ## I’m currently learning 👨🏼‍🎓:
-- TypeScript on Udemy
-
-## I'm looking forward to👨🏻‍🏫:
--Teach coding
+- Data Science
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats-ceyk8feil-thisisjo11.vercel.app/api/top-langs/?username=ThisIsJo11&layout=donut&theme=radical)](https://github.com/ThisTsJo11/github-readme-stats)
